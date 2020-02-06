@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestsSuite">
+    <test name="Project Test Status">
+        <classes>
+            <class name="ProjectTest"/>
+            <class name="ProjectTest2"/>
+            <class name="ProjectTest3"/>
+            <class name="ProjectTest4"/>
+            <class name="ProjectTest5"/>
+        </classes>
+    </test>
+</suite>
